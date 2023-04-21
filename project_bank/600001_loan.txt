@@ -1,0 +1,8 @@
+Loan Application Date: Fri Apr 21 23:31:37 2023
+
+Account Number: 600001
+Account Name: 1
+Phone: 2
+Loan Amount: $0
+Loan Status: Pending
+------------------------------------------
